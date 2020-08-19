@@ -1,2 +1,588 @@
-# f4mtester
-f4mtester
+
+EXTM3U
+#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 04[/B][/COLOR]
+http://canais.servidor
+ 
+
+#EXTINF:-1,A&E HD
+http://srv.maxptv.net:8080/camilo/camilo/236
+#EXTINF:-1,A&E SD
+http://srv.maxptv.net:8080/camilo/camilo/235
+#EXTINF:-1,Amc HD
+http://srv.maxptv.net:8080/camilo/camilo/512
+#EXTINF:-1,AMC SD
+http://srv.maxptv.net:8080/camilo/camilo/233
+#EXTINF:-1,Animal Planet HD
+http://srv.maxptv.net:8080/camilo/camilo/232
+#EXTINF:-1,Animal Planet SD
+http://srv.maxptv.net:8080/camilo/camilo/231
+#EXTINF:-1,AXN HD
+http://srv.maxptv.net:8080/camilo/camilo/535
+#EXTINF:-1,AXN SD
+http://srv.maxptv.net:8080/camilo/camilo/227
+#EXTINF:-1,BabyTV HD
+http://srv.maxptv.net:8080/camilo/camilo/226
+#EXTINF:-1,BabyTV SD
+http://srv.maxptv.net:8080/camilo/camilo/225
+#EXTINF:-1,Band Campinas HD
+http://srv.maxptv.net:8080/camilo/camilo/242
+#EXTINF:-1,Band Campinas SD
+http://srv.maxptv.net:8080/camilo/camilo/241
+#EXTINF:-1,Canal Band News HD
+http://srv.maxptv.net:8080/camilo/camilo/224
+#EXTINF:-1,Canal Band News SD
+http://srv.maxptv.net:8080/camilo/camilo/223
+#EXTINF:-1,Band SP HD
+http://srv.maxptv.net:8080/camilo/camilo/130
+#EXTINF:-1,Band SP SD
+http://srv.maxptv.net:8080/camilo/camilo/129
+#EXTINF:-1,Band Sports HD
+http://srv.maxptv.net:8080/camilo/camilo/221
+#EXTINF:-1,Band Sports SD
+http://srv.maxptv.net:8080/camilo/camilo/220
+#EXTINF:-1,BIZ HD
+http://srv.maxptv.net:8080/camilo/camilo/219
+#EXTINF:-1,BIZ SD
+http://srv.maxptv.net:8080/camilo/camilo/218
+#EXTINF:-1,Boomerang HD
+http://srv.maxptv.net:8080/camilo/camilo/217
+#EXTINF:-1,Boomerang SD
+http://srv.maxptv.net:8080/camilo/camilo/216
+#EXTINF:-1,Canal Canção Nova HD
+http://srv.maxptv.net:8080/camilo/camilo/215
+#EXTINF:-1,Canal Canal Canção SD
+http://srv.maxptv.net:8080/camilo/camilo/214
+#EXTINF:-1,Canal Futura HD
+http://srv.maxptv.net:8080/camilo/camilo/211
+#EXTINF:-1,Canal Futura SD
+http://srv.maxptv.net:8080/camilo/camilo/210
+#EXTINF:-1,Canal Curta! HD
+http://srv.maxptv.net:8080/camilo/camilo/213
+#EXTINF:-1,Canal Curta! SD
+http://srv.maxptv.net:8080/camilo/camilo/212
+#EXTINF:-1,Canal HGTV HD
+http://srv.maxptv.net:8080/camilo/camilo/193
+#EXTINF:-1,Canal HGTV SD
+http://srv.maxptv.net:8080/camilo/camilo/192
+#EXTINF:-1,Canal OFF HD
+http://srv.maxptv.net:8080/camilo/camilo/209
+#EXTINF:-1,Canal OFF SD
+http://srv.maxptv.net:8080/camilo/camilo/208
+#EXTINF:-1,Canal Woohoo HD
+http://srv.maxptv.net:8080/camilo/camilo/207
+#EXTINF:-1,Canal Woohoo SD
+http://srv.maxptv.net:8080/camilo/camilo/206
+#EXTINF:-1,Cartoon Network HD
+http://srv.maxptv.net:8080/camilo/camilo/524
+#EXTINF:-1,Cartoon Network SD
+http://srv.maxptv.net:8080/camilo/camilo/204
+#EXTINF:-1,Comedy Central HD
+http://srv.maxptv.net:8080/camilo/camilo/199
+#EXTINF:-1,Comedy Central SD
+http://srv.maxptv.net:8080/camilo/camilo/198
+#EXTINF:-1,Combate HD
+http://srv.maxptv.net:8080/camilo/camilo/201
+#EXTINF:-1,Combate SD
+http://srv.maxptv.net:8080/camilo/camilo/200
+#EXTINF:-1,Cinemax HD
+http://srv.maxptv.net:8080/camilo/camilo/203
+#EXTINF:-1,Cinemax SD
+http://srv.maxptv.net:8080/camilo/camilo/202
+#EXTINF:-1,Black Kamen Rider 24H
+http://srv.maxptv.net:8080/camilo/camilo/537
+#EXTINF:-1,Canal CSI 24H
+http://srv.maxptv.net:8080/camilo/camilo/538
+#EXTINF:-1,Cine Action 24H Ultra HD
+http://srv.maxptv.net:8080/camilo/camilo/548
+#EXTINF:-1,Cine Aventura 24H Ultra HD
+http://srv.maxptv.net:8080/camilo/camilo/549
+#EXTINF:-1,Cine Drama 24H Ultra HD
+http://srv.maxptv.net:8080/camilo/camilo/550
+#EXTINF:-1,Cine Family 24H
+http://srv.maxptv.net:8080/camilo/camilo/551
+#EXTINF:-1,Cine Faroeste 24H Ultra HD
+http://srv.maxptv.net:8080/camilo/camilo/1478
+#EXTINF:-1,Cine Fiction 24H Ultra HD
+http://srv.maxptv.net:8080/camilo/camilo/536
+#EXTINF:-1,Cine Fun 24H Ultra HD
+http://srv.maxptv.net:8080/camilo/camilo/552
+#EXTINF:-1,Cine Guerra 24H Ultra HD
+http://srv.maxptv.net:8080/camilo/camilo/1477
+#EXTINF:-1,Cine Horror 24H Ultra HD
+http://srv.maxptv.net:8080/camilo/camilo/553
+#EXTINF:-1,CINE KIDS 24H ULTRA HD
+http://srv.maxptv.net:8080/camilo/camilo/554
+#EXTINF:-1,CINE Nacionais 24H
+http://srv.maxptv.net:8080/camilo/camilo/555
+#EXTINF:-1,Como eu Conheci a Sua Mae  24H
+http://srv.maxptv.net:8080/camilo/camilo/567
+#EXTINF:-1,Cultura HD
+http://srv.maxptv.net:8080/camilo/camilo/197
+#EXTINF:-1,Cultura SD
+http://srv.maxptv.net:8080/camilo/camilo/196
+#EXTINF:-1,Cybercop 24H
+http://srv.maxptv.net:8080/camilo/camilo/1479
+#EXTINF:-1,Discovery Channel HD
+http://srv.maxptv.net:8080/camilo/camilo/195
+#EXTINF:-1,Discovery Channel SD
+http://srv.maxptv.net:8080/camilo/camilo/194
+#EXTINF:-1,Discovery Home & Health HD
+http://srv.maxptv.net:8080/camilo/camilo/191
+#EXTINF:-1,Discovery Home & Health SD
+http://srv.maxptv.net:8080/camilo/camilo/190
+#EXTINF:-1,Discovery Kids HD
+http://srv.maxptv.net:8080/camilo/camilo/189
+#EXTINF:-1,Discovery Kids SD
+http://srv.maxptv.net:8080/camilo/camilo/188
+#EXTINF:-1,Discovery Science HD
+http://srv.maxptv.net:8080/camilo/camilo/187
+#EXTINF:-1,Discovery Science SD
+http://srv.maxptv.net:8080/camilo/camilo/186
+#EXTINF:-1,Discovery Theater HD
+http://srv.maxptv.net:8080/camilo/camilo/185
+#EXTINF:-1,Discovery Theater SD
+http://srv.maxptv.net:8080/camilo/camilo/184
+#EXTINF:-1,Discovery Turbo HD
+http://srv.maxptv.net:8080/camilo/camilo/183
+#EXTINF:-1,Discovery Turbo SD
+http://srv.maxptv.net:8080/camilo/camilo/182
+#EXTINF:-1,Discovery World HD
+http://srv.maxptv.net:8080/camilo/camilo/181
+#EXTINF:-1,Discovery World SD
+http://srv.maxptv.net:8080/camilo/camilo/180
+#EXTINF:-1,Disney Channel  HD
+http://srv.maxptv.net:8080/camilo/camilo/179
+#EXTINF:-1,Disney Channel SD
+http://srv.maxptv.net:8080/camilo/camilo/178
+#EXTINF:-1,Disney Junior HD
+http://srv.maxptv.net:8080/camilo/camilo/177
+#EXTINF:-1,Disney Junior SD
+http://srv.maxptv.net:8080/camilo/camilo/176
+#EXTINF:-1,Disney XD HD
+http://srv.maxptv.net:8080/camilo/camilo/175
+#EXTINF:-1,Disney XD SD
+http://srv.maxptv.net:8080/camilo/camilo/174
+#EXTINF:-1,DR. House 24HR
+http://srv.maxptv.net:8080/camilo/camilo/568
+#EXTINF:-1,Dragoes  24H
+http://srv.maxptv.net:8080/camilo/camilo/1480
+#EXTINF:-1,E! HD
+http://srv.maxptv.net:8080/camilo/camilo/516
+#EXTINF:-1,E! SD
+http://srv.maxptv.net:8080/camilo/camilo/172
+#EXTINF:-1,EPTV Campinas HD
+http://srv.maxptv.net:8080/camilo/camilo/238
+#EXTINF:-1,EPTV Campinas HD 2
+http://srv.maxptv.net:8080/camilo/camilo/246
+#EXTINF:-1,EPTV Campinas SD
+http://srv.maxptv.net:8080/camilo/camilo/237
+#EXTINF:-1,Espn  2 HD
+http://srv.maxptv.net:8080/camilo/camilo/171
+#EXTINF:-1,Espn  2 SD 
+http://srv.maxptv.net:8080/camilo/camilo/170
+#EXTINF:-1,Espn Brasil HD
+http://srv.maxptv.net:8080/camilo/camilo/169
+#EXTINF:-1,Espn Brasil SD
+http://srv.maxptv.net:8080/camilo/camilo/168
+#EXTINF:-1,Espn Extra  SD
+http://srv.maxptv.net:8080/camilo/camilo/164
+#EXTINF:-1,Espn Extra HD
+http://srv.maxptv.net:8080/camilo/camilo/165
+#EXTINF:-1,Espn HD
+http://srv.maxptv.net:8080/camilo/camilo/167
+#EXTINF:-1,Espn SD
+http://srv.maxptv.net:8080/camilo/camilo/166
+#EXTINF:-1,Eu a Patroa e as Crianças
+http://srv.maxptv.net:8080/camilo/camilo/321
+#EXTINF:-1,Familia da Pesada 24H
+http://srv.maxptv.net:8080/camilo/camilo/1481
+#EXTINF:-1,Familia Dinossauro  24H
+http://srv.maxptv.net:8080/camilo/camilo/569
+#EXTINF:-1,Film&Arts HD
+http://srv.maxptv.net:8080/camilo/camilo/163
+#EXTINF:-1,Film&Arts SD
+http://srv.maxptv.net:8080/camilo/camilo/162
+#EXTINF:-1,FISH TV HD
+http://srv.maxptv.net:8080/camilo/camilo/525
+#EXTINF:-1,Fish TV SD
+http://srv.maxptv.net:8080/camilo/camilo/161
+#EXTINF:-1,Food Network HD
+http://srv.maxptv.net:8080/camilo/camilo/158
+#EXTINF:-1,Food Network SD
+http://srv.maxptv.net:8080/camilo/camilo/159
+#EXTINF:-1,FOX HD
+http://srv.maxptv.net:8080/camilo/camilo/157
+#EXTINF:-1,FOX Life HD
+http://srv.maxptv.net:8080/camilo/camilo/156
+#EXTINF:-1,FOX Life SD
+http://srv.maxptv.net:8080/camilo/camilo/155
+#EXTINF:-1,Fox Premium 2 HD
+http://srv.maxptv.net:8080/camilo/camilo/526
+#EXTINF:-1,Fox Premium 2 SD
+http://srv.maxptv.net:8080/camilo/camilo/527
+#EXTINF:-1,Fox Premium HD
+http://srv.maxptv.net:8080/camilo/camilo/528
+#EXTINF:-1,Fox Premium SD
+http://srv.maxptv.net:8080/camilo/camilo/151
+#EXTINF:-1,FOX SD
+http://srv.maxptv.net:8080/camilo/camilo/150
+#EXTINF:-1,Fox Sports 2 HD
+http://srv.maxptv.net:8080/camilo/camilo/529
+#EXTINF:-1,Fox Sports 2 SD
+http://srv.maxptv.net:8080/camilo/camilo/148
+#EXTINF:-1,Fox Sports HD
+http://srv.maxptv.net:8080/camilo/camilo/147
+#EXTINF:-1,Fox Sports SD
+http://srv.maxptv.net:8080/camilo/camilo/146
+#EXTINF:-1,FX HD
+http://srv.maxptv.net:8080/camilo/camilo/145
+#EXTINF:-1,FX SD
+http://srv.maxptv.net:8080/camilo/camilo/144
+#EXTINF:-1,Galinha Pintadinha 24H
+http://srv.maxptv.net:8080/camilo/camilo/1476
+#EXTINF:-1,Globo Ribeirão HD
+http://srv.maxptv.net:8080/camilo/camilo/985
+#EXTINF:-1,Globo Ribeirão SD
+http://srv.maxptv.net:8080/camilo/camilo/986
+#EXTINF:-1,Globo SP HD
+http://srv.maxptv.net:8080/camilo/camilo/72
+#EXTINF:-1,Globo SP SD
+http://srv.maxptv.net:8080/camilo/camilo/71
+#EXTINF:-1,GloboNews HD
+http://srv.maxptv.net:8080/camilo/camilo/143
+#EXTINF:-1,GloboNews SD
+http://srv.maxptv.net:8080/camilo/camilo/142
+#EXTINF:-1,Gloob HD
+http://srv.maxptv.net:8080/camilo/camilo/530
+#EXTINF:-1,Gloob SD
+http://srv.maxptv.net:8080/camilo/camilo/140
+#EXTINF:-1,GNT HD
+http://srv.maxptv.net:8080/camilo/camilo/139
+#EXTINF:-1,GNT SD
+http://srv.maxptv.net:8080/camilo/camilo/138
+#EXTINF:-1,H2 HD
+http://srv.maxptv.net:8080/camilo/camilo/137
+#EXTINF:-1,H2 SD
+http://srv.maxptv.net:8080/camilo/camilo/523
+#EXTINF:-1,HBO 2 HD
+http://srv.maxptv.net:8080/camilo/camilo/135
+#EXTINF:-1,HBO 2 SD
+http://srv.maxptv.net:8080/camilo/camilo/134
+#EXTINF:-1,HBO Family HD
+http://srv.maxptv.net:8080/camilo/camilo/133
+#EXTINF:-1,HBO Family SD
+http://srv.maxptv.net:8080/camilo/camilo/132
+#EXTINF:-1,HBO HD
+http://srv.maxptv.net:8080/camilo/camilo/131
+#EXTINF:-1,HBO Plus HD
+http://srv.maxptv.net:8080/camilo/camilo/128
+#EXTINF:-1,HBO Plus SD
+http://srv.maxptv.net:8080/camilo/camilo/127
+#EXTINF:-1,HBO SD
+http://srv.maxptv.net:8080/camilo/camilo/126
+#EXTINF:-1,HBO Signature HD
+http://srv.maxptv.net:8080/camilo/camilo/531
+#EXTINF:-1,HBO Signature SD
+http://srv.maxptv.net:8080/camilo/camilo/124
+#EXTINF:-1,History Channel HD
+http://srv.maxptv.net:8080/camilo/camilo/532
+#EXTINF:-1,History Channel SD
+http://srv.maxptv.net:8080/camilo/camilo/122
+#EXTINF:-1,Homem-Aranha 24H
+http://srv.maxptv.net:8080/camilo/camilo/566
+#EXTINF:-1,ID HD
+http://srv.maxptv.net:8080/camilo/camilo/121
+#EXTINF:-1,ID SD
+http://srv.maxptv.net:8080/camilo/camilo/120
+#EXTINF:-1,Jaspion 24H
+http://srv.maxptv.net:8080/camilo/camilo/570
+#EXTINF:-1,Jiraya  O Incrivel Ninja 24H
+http://srv.maxptv.net:8080/camilo/camilo/1475
+#EXTINF:-1,Larva 24H
+http://srv.maxptv.net:8080/camilo/camilo/1474
+#EXTINF:-1,Lifetime HD
+http://srv.maxptv.net:8080/camilo/camilo/522
+#EXTINF:-1,Lifetime SD
+http://srv.maxptv.net:8080/camilo/camilo/118
+#EXTINF:-1,Lion Man 24H
+http://srv.maxptv.net:8080/camilo/camilo/1473
+#EXTINF:-1,Looney Tunnes 24H
+http://srv.maxptv.net:8080/camilo/camilo/565
+#EXTINF:-1,Mais Globosat HD
+http://srv.maxptv.net:8080/camilo/camilo/117
+#EXTINF:-1,Mais Globosat SD
+http://srv.maxptv.net:8080/camilo/camilo/116
+#EXTINF:-1,MARVEL & DC 24H
+http://srv.maxptv.net:8080/camilo/camilo/545
+#EXTINF:-1,HBO Mundi HD
+http://srv.maxptv.net:8080/camilo/camilo/521
+#EXTINF:-1,HBO Xtreme HD
+http://srv.maxptv.net:8080/camilo/camilo/520
+#EXTINF:-1,HBO Xtreme SD
+http://srv.maxptv.net:8080/camilo/camilo/113
+#EXTINF:-1,HBO Mundi SD
+http://srv.maxptv.net:8080/camilo/camilo/112
+#EXTINF:-1,HBO Pop HD
+http://srv.maxptv.net:8080/camilo/camilo/111
+#EXTINF:-1,HBO Pop SD
+http://srv.maxptv.net:8080/camilo/camilo/110
+#EXTINF:-1,Megapix HD
+http://srv.maxptv.net:8080/camilo/camilo/109
+#EXTINF:-1,Megapix SD
+http://srv.maxptv.net:8080/camilo/camilo/108
+#EXTINF:-1,MR. Bean 24H
+http://srv.maxptv.net:8080/camilo/camilo/546
+#EXTINF:-1,MTV HD
+http://srv.maxptv.net:8080/camilo/camilo/519
+#EXTINF:-1,MTV SD
+http://srv.maxptv.net:8080/camilo/camilo/106
+#EXTINF:-1,MULTISHOW HD
+http://srv.maxptv.net:8080/camilo/camilo/105
+#EXTINF:-1,MULTISHOW SD
+http://srv.maxptv.net:8080/camilo/camilo/104
+#EXTINF:-1,Naruto 24H
+http://srv.maxptv.net:8080/camilo/camilo/564
+#EXTINF:-1,Nat Geo Kids HD
+http://srv.maxptv.net:8080/camilo/camilo/518
+#EXTINF:-1,Nat Geo Kids SD
+http://srv.maxptv.net:8080/camilo/camilo/102
+#EXTINF:-1,Nat Geo Wild HD
+http://srv.maxptv.net:8080/camilo/camilo/101
+#EXTINF:-1,Nat Geo Wild SD
+http://srv.maxptv.net:8080/camilo/camilo/100
+#EXTINF:-1,National Geographic HD
+http://srv.maxptv.net:8080/camilo/camilo/99
+#EXTINF:-1,National Geographic SD
+http://srv.maxptv.net:8080/camilo/camilo/98
+#EXTINF:-1,NHK HD
+http://srv.maxptv.net:8080/camilo/camilo/97
+#EXTINF:-1,NHK SD
+http://srv.maxptv.net:8080/camilo/camilo/96
+#EXTINF:-1,Nick Jr HD
+http://srv.maxptv.net:8080/camilo/camilo/95
+#EXTINF:-1,Nick Jr SD
+http://srv.maxptv.net:8080/camilo/camilo/94
+#EXTINF:-1,Nickelodeon HD
+http://srv.maxptv.net:8080/camilo/camilo/93
+#EXTINF:-1,Nickelodeon SD
+http://srv.maxptv.net:8080/camilo/camilo/92
+#EXTINF:-1,Os Simpsons 24H
+http://srv.maxptv.net:8080/camilo/camilo/563
+#EXTINF:-1,Os Vingadores 24H
+http://srv.maxptv.net:8080/camilo/camilo/1482
+#EXTINF:-1,Paramount Channel HD
+http://srv.maxptv.net:8080/camilo/camilo/91
+#EXTINF:-1,Paramount Channel SD
+http://srv.maxptv.net:8080/camilo/camilo/90
+#EXTINF:-1,Peppa Pig 24H
+http://srv.maxptv.net:8080/camilo/camilo/562
+#EXTINF:-1,Playboy HD
+http://srv.maxptv.net:8080/camilo/camilo/88
+#EXTINF:-1,Playboy SD
+http://srv.maxptv.net:8080/camilo/camilo/87
+#EXTINF:-1,POCOYO 24H
+http://srv.maxptv.net:8080/camilo/camilo/561
+#EXTINF:-1,Pokemon 24H
+http://srv.maxptv.net:8080/camilo/camilo/560
+#EXTINF:-1,Premiere 1 HD
+http://srv.maxptv.net:8080/camilo/camilo/86
+#EXTINF:-1,Premiere 1 HD2
+http://srv.maxptv.net:8080/camilo/camilo/247
+#EXTINF:-1,Premiere 1 SD
+http://srv.maxptv.net:8080/camilo/camilo/85
+#EXTINF:-1,Premiere 2 HD Alternativo
+http://srv.maxptv.net:8080/camilo/camilo/1462
+#EXTINF:-1,Premiere 2 SD
+http://srv.maxptv.net:8080/camilo/camilo/83
+#EXTINF:-1,Premiere 3 HD
+http://srv.maxptv.net:8080/camilo/camilo/82
+#EXTINF:-1,Premiere 3 HD Alternativo
+http://srv.maxptv.net:8080/camilo/camilo/1463
+#EXTINF:-1,Premiere 3 SD
+http://srv.maxptv.net:8080/camilo/camilo/81
+#EXTINF:-1,Premiere 4 HD
+http://srv.maxptv.net:8080/camilo/camilo/80
+#EXTINF:-1,Premiere 4 HD Alternativo
+http://srv.maxptv.net:8080/camilo/camilo/1464
+#EXTINF:-1,Premiere 4 SD
+http://srv.maxptv.net:8080/camilo/camilo/79
+#EXTINF:-1,Premiere 5 HD
+http://srv.maxptv.net:8080/camilo/camilo/78
+#EXTINF:-1,Premiere 5 HD Alternativo
+http://srv.maxptv.net:8080/camilo/camilo/1465
+#EXTINF:-1,Premiere 5 SD
+http://srv.maxptv.net:8080/camilo/camilo/77
+#EXTINF:-1,Premiere 6 HD
+http://srv.maxptv.net:8080/camilo/camilo/76
+#EXTINF:-1,Premiere 6 SD
+http://srv.maxptv.net:8080/camilo/camilo/75
+#EXTINF:-1,Premiere 7 HD
+http://srv.maxptv.net:8080/camilo/camilo/74
+#EXTINF:-1,Premiere 7 HD Alternativo
+http://srv.maxptv.net:8080/camilo/camilo/1467
+#EXTINF:-1,Record HD
+http://srv.maxptv.net:8080/camilo/camilo/240
+#EXTINF:-1,Record HD 2
+http://srv.maxptv.net:8080/camilo/camilo/68
+#EXTINF:-1,Record News HD
+http://srv.maxptv.net:8080/camilo/camilo/67
+#EXTINF:-1,Record News SD
+http://srv.maxptv.net:8080/camilo/camilo/66
+#EXTINF:-1,Record SD
+http://srv.maxptv.net:8080/camilo/camilo/239
+#EXTINF:-1,Record SP HD
+http://srv.maxptv.net:8080/camilo/camilo/65
+#EXTINF:-1,Record SP SD
+http://srv.maxptv.net:8080/camilo/camilo/64
+#EXTINF:-1,Rede Vida HD
+http://srv.maxptv.net:8080/camilo/camilo/62
+#EXTINF:-1,Rede Vida SD
+http://srv.maxptv.net:8080/camilo/camilo/63
+#EXTINF:-1,RedeTV HD
+http://srv.maxptv.net:8080/camilo/camilo/61
+#EXTINF:-1,RedeTV SD
+http://srv.maxptv.net:8080/camilo/camilo/60
+#EXTINF:-1,Rá -Tim Bum- HD
+http://srv.maxptv.net:8080/camilo/camilo/70
+#EXTINF:-1,Rá- Tim- Bum SD
+http://srv.maxptv.net:8080/camilo/camilo/69
+#EXTINF:-1,Sbt HD
+http://srv.maxptv.net:8080/camilo/camilo/59
+#EXTINF:-1,Sbt SD
+http://srv.maxptv.net:8080/camilo/camilo/58
+#EXTINF:-1,Sextreme HD
+http://srv.maxptv.net:8080/camilo/camilo/57
+#EXTINF:-1,Sextreme SD
+http://srv.maxptv.net:8080/camilo/camilo/56
+#EXTINF:-1,Sexy Hot HD
+http://srv.maxptv.net:8080/camilo/camilo/55
+#EXTINF:-1,Sexy Hot SD
+http://srv.maxptv.net:8080/camilo/camilo/54
+#EXTINF:-1,Sony HD
+http://srv.maxptv.net:8080/camilo/camilo/53
+#EXTINF:-1,Sony SD
+http://srv.maxptv.net:8080/camilo/camilo/52
+#EXTINF:-1,South Park 24H
+http://srv.maxptv.net:8080/camilo/camilo/544
+#EXTINF:-1,Space HD
+http://srv.maxptv.net:8080/camilo/camilo/51
+#EXTINF:-1,Space SD
+http://srv.maxptv.net:8080/camilo/camilo/50
+#EXTINF:-1,SporTV HD
+http://srv.maxptv.net:8080/camilo/camilo/49
+#EXTINF:-1,SporTV SD
+http://srv.maxptv.net:8080/camilo/camilo/48
+#EXTINF:-1,SporTV2 HD
+http://srv.maxptv.net:8080/camilo/camilo/47
+#EXTINF:-1,SporTV2 SD
+http://srv.maxptv.net:8080/camilo/camilo/46
+#EXTINF:-1,SporTV3 HD
+http://srv.maxptv.net:8080/camilo/camilo/45
+#EXTINF:-1,SporTV3 SD
+http://srv.maxptv.net:8080/camilo/camilo/44
+#EXTINF:-1,Studio Universal HD
+http://srv.maxptv.net:8080/camilo/camilo/43
+#EXTINF:-1,Studio Universal SD
+http://srv.maxptv.net:8080/camilo/camilo/42
+#EXTINF:-1,Syfy HD
+http://srv.maxptv.net:8080/camilo/camilo/41
+#EXTINF:-1,Syfy SD
+http://srv.maxptv.net:8080/camilo/camilo/40
+#EXTINF:-1,Tbs HD
+http://srv.maxptv.net:8080/camilo/camilo/39
+#EXTINF:-1,Tbs SD
+http://srv.maxptv.net:8080/camilo/camilo/38
+#EXTINF:-1,TCM HD
+http://srv.maxptv.net:8080/camilo/camilo/37
+#EXTINF:-1,TCM SD
+http://srv.maxptv.net:8080/camilo/camilo/36
+#EXTINF:-1,Telecine Action HD
+http://srv.maxptv.net:8080/camilo/camilo/35
+#EXTINF:-1,Telecine Action SD
+http://srv.maxptv.net:8080/camilo/camilo/34
+#EXTINF:-1,Telecine Cult HD
+http://srv.maxptv.net:8080/camilo/camilo/33
+#EXTINF:-1,Telecine Cult SD
+http://srv.maxptv.net:8080/camilo/camilo/32
+#EXTINF:-1,Telecine Fun HD
+http://srv.maxptv.net:8080/camilo/camilo/31
+#EXTINF:-1,Telecine Fun SD
+http://srv.maxptv.net:8080/camilo/camilo/30
+#EXTINF:-1,Telecine Pipoca HD
+http://srv.maxptv.net:8080/camilo/camilo/29
+#EXTINF:-1,Telecine Pipoca SD
+http://srv.maxptv.net:8080/camilo/camilo/28
+#EXTINF:-1,Telecine Premium HD
+http://srv.maxptv.net:8080/camilo/camilo/27
+#EXTINF:-1,Telecine Premium SD
+http://srv.maxptv.net:8080/camilo/camilo/26
+#EXTINF:-1,Telecine Touch HD
+http://srv.maxptv.net:8080/camilo/camilo/25
+#EXTINF:-1,Telecine Touch SD
+http://srv.maxptv.net:8080/camilo/camilo/24
+#EXTINF:-1,The Backyardigans 24H
+http://srv.maxptv.net:8080/camilo/camilo/558
+#EXTINF:-1,The Big Bang Theory 24H
+http://srv.maxptv.net:8080/camilo/camilo/543
+#EXTINF:-1,TLC HD
+http://srv.maxptv.net:8080/camilo/camilo/23
+#EXTINF:-1,TLC SD
+http://srv.maxptv.net:8080/camilo/camilo/22
+#EXTINF:-1,TNT HD
+http://srv.maxptv.net:8080/camilo/camilo/21
+#EXTINF:-1,TNT SD
+http://srv.maxptv.net:8080/camilo/camilo/20
+#EXTINF:-1,TNT Series HD
+http://srv.maxptv.net:8080/camilo/camilo/517
+#EXTINF:-1,TNT Series SD
+http://srv.maxptv.net:8080/camilo/camilo/18
+#EXTINF:-1,Todo Mundo Odeia o Cris
+http://srv.maxptv.net:8080/camilo/camilo/317
+#EXTINF:-1,Tom & Jerry  24H
+http://srv.maxptv.net:8080/camilo/camilo/557
+#EXTINF:-1,Tooncast HD
+http://srv.maxptv.net:8080/camilo/camilo/17
+#EXTINF:-1,Tooncast SD
+http://srv.maxptv.net:8080/camilo/camilo/16
+#EXTINF:-1,TV Aparecida HD
+http://srv.maxptv.net:8080/camilo/camilo/15
+#EXTINF:-1,TV Aparecida SD
+http://srv.maxptv.net:8080/camilo/camilo/14
+#EXTINF:-1,TV Rio Preto
+http://srv.maxptv.net:8080/camilo/camilo/13
+#EXTINF:-1,Two And a Half Man 24H
+http://srv.maxptv.net:8080/camilo/camilo/542
+#EXTINF:-1,Um Maluco No Pedaco  24H
+http://srv.maxptv.net:8080/camilo/camilo/541
+#EXTINF:-1,Universal Channel SD
+http://srv.maxptv.net:8080/camilo/camilo/11
+#EXTINF:-1,Venus HD
+http://srv.maxptv.net:8080/camilo/camilo/10
+#EXTINF:-1,Venus SD
+http://srv.maxptv.net:8080/camilo/camilo/9
+#EXTINF:-1,VH1 HD
+http://srv.maxptv.net:8080/camilo/camilo/8
+#EXTINF:-1,VH1 SD
+http://srv.maxptv.net:8080/camilo/camilo/7
+#EXTINF:-1,Viva HD
+http://srv.maxptv.net:8080/camilo/camilo/6
+#EXTINF:-1,Viva SD
+http://srv.maxptv.net:8080/camilo/camilo/5
+#EXTINF:-1,Warner Bros HD
+http://srv.maxptv.net:8080/camilo/camilo/4
+#EXTINF:-1,Warner Bros SD
+http://srv.maxptv.net:8080/camilo/camilo/3
+#EXTINF:-1,X-Men Evolution 24H
+http://srv.maxptv.net:8080/camilo/camilo/1483
+#EXTINF:-1,Zoomoo HD
+http://srv.maxptv.net:8080/camilo/camilo/2
+#EXTINF:-1,Zoomoo SD
+http://srv.maxptv.net:8080/camilo/camilo/1
+#EXTINF:-1,Globo Floripa HD
+http://srv.maxptv.net:8080/camilo/camilo/6234
+#EXTINF:-1,Globo Floripa SD
+http://srv.maxptv.net:8080/camilo/camilo/6235
+#EXTINF:-1,Cnn Brasil HD
+http://srv.maxptv.net:8080/camilo/camilo/8890
+#EXTINF:-1,Cnn Brasil SD
+http://srv.maxptv.net:8080/camilo/camilo/8891
